@@ -1,0 +1,98 @@
+.title{
+    color:brown;
+    width: 50%;
+    margin-left: 450px;
+    }
+
+    img{
+        display: flex;
+        width: 360px;
+        height: 300px;
+    }
+.titulos{
+    color: purple;
+    width: 40%;
+    margin-left: 1px;
+    border: 4px solid brown;
+}
+
+.textos{  
+color: purple;
+    width: 40%;
+    margin-left: 1px;
+    border: 4px solid brown;
+}
+
+.body{
+border: 10px solid purple;
+padding: 5px;
+width:1500px;
+height: 1500 px;
+text-align: justify;
+}
+
+.default{
+border-collapse: collapse;
+width: 60;
+height: 80px;
+}
+    
+th, td {
+border: 1px solid #d86868;
+text-align: left;
+padding: 8px;
+}
+
+th {
+background-color: #d86868;
+}
+
+tr:nth-child(even) {
+background-color: #d86868;
+}
+
+body {
+font-family: Arial, sans-serif;
+background-color: #f4f4f4;
+padding: 20px;
+}
+
+form {
+background-color: #ffffff;
+padding: 20px;
+border-radius: 5px;
+box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+}
+
+label {
+display: block;
+margin-bottom: 10px;
+}
+
+input[type="email"],
+textarea {
+width: 100%;
+padding: 10px;
+margin-bottom: 20px;
+border: 1px solid #dddddd;
+border-radius: 5px;
+box-sizing: border-box;
+}
+
+textarea {
+height: 150px;
+}
+
+button {
+background-color: #007bff;
+color: #ffffff;
+border: none;
+padding: 10px 20px;
+border-radius: 5px;
+cursor: pointer;
+font-size: 16px;
+}
+
+button:hover {
+background-color: #0056b3;
+}
